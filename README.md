@@ -1,0 +1,1 @@
+# dotnet-blazor-server-net-core-api-6.0
