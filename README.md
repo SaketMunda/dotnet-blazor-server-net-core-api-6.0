@@ -1,1 +1,1 @@
-# dotnet-blazor-server-net-core-api-6.0
+# Blazor Server Web App with .Net Core API 6.0
